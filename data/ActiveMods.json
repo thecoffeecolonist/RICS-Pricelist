@@ -1,29 +1,29 @@
 {
-  "exportedAt": "2026-04-14T19:33:36.9341276Z",
-  "totalActiveMods": 11,
+  "exportedAt": "2026-05-07T22:29:39.4146547Z",
+  "totalActiveMods": 13,
   "mods": [
     {
       "author": "Captolamia",
-      "name": "[CAP] Rimworld Interactive Chat Service DEV VERSION",
-      "steamId": null,
+      "name": "[CAP] Rimworld Interactive Chat Service",
+      "steamId": "3603078790",
       "version": null
     },
     {
-      "author": "Captolamia",
-      "name": "[CAP] Thunder Snow",
-      "steamId": null,
+      "author": "Soul, Phaneron, Bradson",
+      "name": "Adaptive Storage Framework",
+      "steamId": "3033901359",
+      "version": null
+    },
+    {
+      "author": "Superniquito",
+      "name": "All Ideoligions Are Fluid",
+      "steamId": "2872901762",
       "version": null
     },
     {
       "author": "Ludeon Studios",
       "name": "Anomaly",
       "steamId": null,
-      "version": null
-    },
-    {
-      "author": "Aleksey",
-      "name": "Better Stacktraces",
-      "steamId": "3541579129",
       "version": null
     },
     {
@@ -39,16 +39,22 @@
       "version": null
     },
     {
+      "author": "EdB",
+      "name": "EdB Prepare Carefully",
+      "steamId": "735106432",
+      "version": null
+    },
+    {
+      "author": "Kosaro",
+      "name": "Fahrenheit and Celsius",
+      "steamId": "937759575",
+      "version": null
+    },
+    {
       "author": "Andreas Pardeike",
       "name": "Harmony",
       "steamId": "2009463077",
       "version": "2.4.2.0"
-    },
-    {
-      "author": "UnlimitedHugs",
-      "name": "HugsLib",
-      "steamId": "818773962",
-      "version": null
     },
     {
       "author": "Ludeon Studios",
@@ -60,6 +66,12 @@
       "author": "Ludeon Studios",
       "name": "Odyssey",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Side1iner",
+      "name": "Possessions Plus",
+      "steamId": "3535813796",
       "version": null
     },
     {
